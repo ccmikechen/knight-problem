@@ -1,0 +1,10 @@
+H:\騎士\騎士\bin\Debug\騎士.exe.config
+H:\騎士\騎士\bin\Debug\騎士.exe
+H:\騎士\騎士\bin\Debug\騎士.pdb
+H:\騎士\騎士\bin\Debug\騎士.xml
+H:\騎士\騎士\obj\Debug\騎士.Form1.resources
+H:\騎士\騎士\obj\Debug\騎士.Resources.resources
+H:\騎士\騎士\obj\Debug\騎士.vbproj.GenerateResource.Cache
+H:\騎士\騎士\obj\Debug\騎士.exe
+H:\騎士\騎士\obj\Debug\騎士.xml
+H:\騎士\騎士\obj\Debug\騎士.pdb
